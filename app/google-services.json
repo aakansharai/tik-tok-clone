@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "686033598082",
+    "firebase_url": "https://mytiktok-baa34-default-rtdb.firebaseio.com",
+    "project_id": "mytiktok-baa34",
+    "storage_bucket": "mytiktok-baa34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686033598082:android:00b612792a0b6b95f7269b",
+        "android_client_info": {
+          "package_name": "com.mytiktok.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686033598082-uenitihne43imms15ocika02jev40r1n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mytiktok.app",
+            "certificate_hash": "1ea4b1dfc07bcef67f65822677cc49f6a9bda201"
+          }
+        },
+        {
+          "client_id": "686033598082-7at5es92jf9io4dfc84jfea4bggv1ljo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbBnpzwn1TDdYB8UR2AzIO7sDCIlJbepc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686033598082-7at5es92jf9io4dfc84jfea4bggv1ljo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "686033598082-7pj1n3gsvraaqe7dlvfm25bn2drcrq00.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mytiktok.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
